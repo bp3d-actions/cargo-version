@@ -31,7 +31,7 @@
     "@octokit/core": "^4.1.0",
     "@octokit/webhooks-types": "^6.8.0",
     "async-line-reader": "^1.0.0",
-    "axios": "^0.27.2",
+    "axios": "^1.2.2",
     "line-replace": "^2.0.1",
     "semver": "^7.3.8"
   },
